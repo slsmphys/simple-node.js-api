@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "A simple API built with Node.js",
+  "main": "api.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch api.js"
+  },
+  "keywords": [],
+  "author": "slsmphys",
+  "license": "ISC"
+}
